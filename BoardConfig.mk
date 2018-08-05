@@ -51,7 +51,7 @@ BOARD_HAS_LARGE_FILESYSTEM := true
 TARGET_USERIMAGES_USE_EXT4 := true
 TARGET_USERIMAGES_USE_F2FS := true
 BOARD_SUPPRESS_SECURE_ERASE := true
-BOARD_CUSTOM_BOOTIMG_MK :=  device/samsung/on7xelte/bootimg.mk
+#BOARD_CUSTOM_BOOTIMG_MK :=  device/samsung/on7xelte/bootimg.mk
 
 # TWRP specific build flags
 TW_THEME := portrait_hdpi
